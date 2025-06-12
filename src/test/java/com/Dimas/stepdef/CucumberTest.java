@@ -7,11 +7,11 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        glue = {"com.Dimas.stepdef"},
+        glue = {"com.dimas.stepdef"},
         features = {"src/test/resources"},
         plugin = {"pretty"}
 )
-public class cucumberTest {
+public class CucumberTest {
 
 
 }
