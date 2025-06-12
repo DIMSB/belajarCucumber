@@ -1,4 +1,4 @@
-package com.Dimas.stepdef;
+package com.dimas.stepdef;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
