@@ -1,4 +1,4 @@
-package com.Dimas.stepdef;
+package com.dimas.stepdef;
 
 
 import io.cucumber.junit.Cucumber;
@@ -12,6 +12,4 @@ import org.junit.runner.RunWith;
         plugin = {"pretty"}
 )
 public class CucumberTest {
-
-
 }
